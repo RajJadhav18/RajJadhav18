@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Jadhav</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw3RQK4zi99Sj7Y_o47VapyA&ust=1698826459783000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJDPoPjrn4IDFQAAAAAdAAAAABAE](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?size=626&ext=jpg)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?size=626&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjadhav18&label=Profile%20views&color=0e75b6&style=flat" alt="rajjadhav18" /> </p>
 
